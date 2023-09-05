@@ -20,7 +20,7 @@ jobs:
   create-java-website-pull-request:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           repository: opentelemetrybot/opentelemetry.io
           # this is the personal access token used for "git push" below
