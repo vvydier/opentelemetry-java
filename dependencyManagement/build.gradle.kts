@@ -24,7 +24,7 @@ val DEPENDENCY_BOMS = listOf(
   "io.zipkin.reporter2:zipkin-reporter-bom:2.16.3",
   "org.junit:junit-bom:5.9.2",
   "org.testcontainers:testcontainers-bom:1.17.6",
-  "org.snakeyaml:snakeyaml-engine:2.6"
+  "org.snakeyaml:snakeyaml-engine:2.7"
 )
 
 val autoValueVersion = "1.10.1"
